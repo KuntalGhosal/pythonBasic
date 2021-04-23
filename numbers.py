@@ -52,3 +52,30 @@
 # a.reverse()
 # a.sort()
 # print(b)
+
+
+# Nested List
+
+# a = [1, 2, 3, 4, [9, [8, 7], 6]]
+
+# b = a[4][1][1]
+# print(b)
+
+
+# List Matrix Problem
+
+# LIST COMPREHENSION
+
+# a = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+
+# b = "Comprehension"
+# c = b.upper()
+# b = [row[0] for row in a]
+# b = [row[1] for row in a]
+# b = [row[2] for row in a]
+
+
+# print(c)
+
+
+# **** Dictionaries in Python ***
